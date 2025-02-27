@@ -1,0 +1,14 @@
+C:\Lab4Progra\Lab4Progra\Lab4Progra\bin\Debug\net8.0\Lab4Progra.exe
+C:\Lab4Progra\Lab4Progra\Lab4Progra\bin\Debug\net8.0\Lab4Progra.deps.json
+C:\Lab4Progra\Lab4Progra\Lab4Progra\bin\Debug\net8.0\Lab4Progra.runtimeconfig.json
+C:\Lab4Progra\Lab4Progra\Lab4Progra\bin\Debug\net8.0\Lab4Progra.dll
+C:\Lab4Progra\Lab4Progra\Lab4Progra\bin\Debug\net8.0\Lab4Progra.pdb
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.AssemblyInfoInputs.cache
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.AssemblyInfo.cs
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.csproj.CoreCompileInputs.cache
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.dll
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\refint\Lab4Progra.dll
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.pdb
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\Lab4Progra.genruntimeconfig.cache
+C:\Lab4Progra\Lab4Progra\Lab4Progra\obj\Debug\net8.0\ref\Lab4Progra.dll
